@@ -1,6 +1,12 @@
 {
     "dev": [
         {
+            "created": "2023-01-11 05:05:37.392269",
+            "lfortran_commit_sha": "eff590825",
+            "url": "https://lfortran.github.io/wasm_builds/dev/eff590825",
+            "version": "0.18.0-401-geff590825"
+        },
+        {
             "created": "2023-01-10 20:52:44.070652",
             "lfortran_commit_sha": "078e84379",
             "url": "https://lfortran.github.io/wasm_builds/dev/078e84379",
