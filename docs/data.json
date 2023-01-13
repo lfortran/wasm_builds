@@ -1,6 +1,12 @@
 {
     "dev": [
         {
+            "created": "2023-01-13 18:03:12.522564",
+            "lfortran_commit_sha": "ef86c1ea9",
+            "url": "https://lfortran.github.io/wasm_builds/dev/ef86c1ea9",
+            "version": "0.18.0-407-gef86c1ea9"
+        },
+        {
             "created": "2023-01-11 19:33:00.964387",
             "lfortran_commit_sha": "db33df595",
             "url": "https://lfortran.github.io/wasm_builds/dev/db33df595",
