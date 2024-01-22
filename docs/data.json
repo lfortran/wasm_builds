@@ -2685,6 +2685,12 @@
     ],
     "release": [
         {
+            "created": "2024-01-22 03:31:10.371279",
+            "lfortran_commit_sha": "db8201ef8",
+            "url": "https://lfortran.github.io/wasm_builds/release/db8201ef8",
+            "version": "0.31.0"
+        },
+        {
             "created": "2024-01-21 23:06:04.530072",
             "lfortran_commit_sha": "db8201ef8",
             "url": "https://lfortran.github.io/wasm_builds/release/db8201ef8",
