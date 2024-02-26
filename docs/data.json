@@ -2685,6 +2685,12 @@
     ],
     "release": [
         {
+            "created": "2024-02-26 17:33:41.047681",
+            "lfortran_commit_sha": "fc9295caf",
+            "url": "https://lfortran.github.io/wasm_builds/release/fc9295caf",
+            "version": "0.33.1-486-gfc9295caf"
+        },
+        {
             "created": "2024-02-26 06:28:02.175820",
             "lfortran_commit_sha": "4f367676f",
             "url": "https://lfortran.github.io/wasm_builds/release/4f367676f",
