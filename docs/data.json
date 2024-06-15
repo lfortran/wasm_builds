@@ -2685,6 +2685,12 @@
     ],
     "release": [
         {
+            "created": "2024-06-15 17:57:22.773072",
+            "lfortran_commit_sha": "ce25caeab",
+            "url": "https://lfortran.github.io/wasm_builds/release/ce25caeab",
+            "version": "0.36.0-262-gce25caeab"
+        },
+        {
             "created": "2024-06-15 13:47:04.246395",
             "lfortran_commit_sha": "78922f4bf",
             "url": "https://lfortran.github.io/wasm_builds/release/78922f4bf",
