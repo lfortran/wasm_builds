@@ -2685,6 +2685,12 @@
     ],
     "release": [
         {
+            "created": "2024-06-16 15:28:59.943832",
+            "lfortran_commit_sha": "2cfed3f5c",
+            "url": "https://lfortran.github.io/wasm_builds/release/2cfed3f5c",
+            "version": "0.36.0-275-g2cfed3f5c"
+        },
+        {
             "created": "2024-06-16 02:02:14.236555",
             "lfortran_commit_sha": "f0f6d5f19",
             "url": "https://lfortran.github.io/wasm_builds/release/f0f6d5f19",
