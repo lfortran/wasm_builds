@@ -2685,6 +2685,12 @@
     ],
     "release": [
         {
+            "created": "2024-06-17 16:26:03.161319",
+            "lfortran_commit_sha": "eab47600a",
+            "url": "https://lfortran.github.io/wasm_builds/release/eab47600a",
+            "version": "0.36.0-287-geab47600a"
+        },
+        {
             "created": "2024-06-17 16:17:56.791173",
             "lfortran_commit_sha": "571e9ee2e",
             "url": "https://lfortran.github.io/wasm_builds/release/571e9ee2e",
