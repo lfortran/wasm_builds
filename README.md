@@ -5,3 +5,5 @@ This repository contains the wasm builds for LFortran. The files are automatical
 https://lfortran.github.io/wasm_builds/data.json
 
 This is used by [dev.lfortran.org](https://dev.lfortran.org) to fetch the available LFortran wasm builds.
+
+Old repository is located at https://github.com/Shaikh-Ubaid/wasm_builds.
