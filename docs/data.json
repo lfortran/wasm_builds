@@ -2,6 +2,12 @@
     "dev": [],
     "release": [
         {
+            "created": "2024-11-11 18:26:48.549191",
+            "lfortran_commit_sha": "8252bdca6",
+            "url": "https://lfortran.github.io/wasm_builds/release/8252bdca6",
+            "version": "0.41.0-372-g8252bdca6"
+        },
+        {
             "created": "2024-11-11 16:45:47.473434",
             "lfortran_commit_sha": "4068df32e",
             "url": "https://lfortran.github.io/wasm_builds/release/4068df32e",
