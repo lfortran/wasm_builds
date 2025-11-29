@@ -1,0 +1,11 @@
+{
+    "dev": [
+        {
+            "created": "2025-11-29 16:01:06.174399",
+            "lfortran_commit_sha": "a4dc4e112",
+            "url": "https://lfortran.github.io/wasm_builds/dev/a4dc4e112",
+            "version": "0.58.0-141-ga4dc4e112"
+        }
+    ],
+    "release": []
+}
