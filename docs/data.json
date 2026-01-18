@@ -1,0 +1,138 @@
+{
+    "dev": [
+        {
+            "created": "2026-01-18 17:28:11.868662",
+            "lfortran_commit_sha": "210f64de0",
+            "url": "https://lfortran.github.io/wasm_builds/dev/210f64de0",
+            "version": "0.59.0-73-g210f64de0"
+        },
+        {
+            "created": "2026-01-18 05:50:42.634190",
+            "lfortran_commit_sha": "793ce4a4f",
+            "url": "https://lfortran.github.io/wasm_builds/dev/793ce4a4f",
+            "version": "0.59.0-72-g793ce4a4f"
+        },
+        {
+            "created": "2026-01-18 03:47:46.161098",
+            "lfortran_commit_sha": "c6dd291be",
+            "url": "https://lfortran.github.io/wasm_builds/dev/c6dd291be",
+            "version": "0.59.0-71-gc6dd291be"
+        },
+        {
+            "created": "2026-01-18 03:44:12.514718",
+            "lfortran_commit_sha": "48e4082f4",
+            "url": "https://lfortran.github.io/wasm_builds/dev/48e4082f4",
+            "version": "0.59.0-69-g48e4082f4"
+        },
+        {
+            "created": "2026-01-17 22:14:00.687800",
+            "lfortran_commit_sha": "52d571d15",
+            "url": "https://lfortran.github.io/wasm_builds/dev/52d571d15",
+            "version": "0.59.0-68-g52d571d15"
+        },
+        {
+            "created": "2026-01-17 20:47:08.781280",
+            "lfortran_commit_sha": "51489bf18",
+            "url": "https://lfortran.github.io/wasm_builds/dev/51489bf18",
+            "version": "0.59.0-66-g51489bf18"
+        },
+        {
+            "created": "2026-01-17 17:31:54.751304",
+            "lfortran_commit_sha": "83d865ba8",
+            "url": "https://lfortran.github.io/wasm_builds/dev/83d865ba8",
+            "version": "0.59.0-64-g83d865ba8"
+        },
+        {
+            "created": "2026-01-17 14:46:31.013605",
+            "lfortran_commit_sha": "6c522fe90",
+            "url": "https://lfortran.github.io/wasm_builds/dev/6c522fe90",
+            "version": "0.59.0-63-g6c522fe90"
+        },
+        {
+            "created": "2026-01-17 14:37:04.325476",
+            "lfortran_commit_sha": "86f2bfbe4",
+            "url": "https://lfortran.github.io/wasm_builds/dev/86f2bfbe4",
+            "version": "0.59.0-59-g86f2bfbe4"
+        },
+        {
+            "created": "2026-01-17 08:41:46.008379",
+            "lfortran_commit_sha": "2ff74acfd",
+            "url": "https://lfortran.github.io/wasm_builds/dev/2ff74acfd",
+            "version": "0.59.0-58-g2ff74acfd"
+        }
+    ],
+    "release": [
+        {
+            "created": "2026-01-14 05:04:14.835419",
+            "lfortran_commit_sha": "e8c53fddf",
+            "url": "https://lfortran.github.io/wasm_builds/release/e8c53fddf",
+            "version": "0.59.0"
+        },
+        {
+            "created": "2025-11-20 03:53:42.336470",
+            "lfortran_commit_sha": "2ddb58781",
+            "url": "https://lfortran.github.io/wasm_builds/release/2ddb58781",
+            "version": "0.58.0-67-g2ddb58781"
+        },
+        {
+            "created": "2025-11-19 17:53:57.750208",
+            "lfortran_commit_sha": "be0051448",
+            "url": "https://lfortran.github.io/wasm_builds/release/be0051448",
+            "version": "0.58.0-66-gbe0051448"
+        },
+        {
+            "created": "2025-11-18 22:32:50.568225",
+            "lfortran_commit_sha": "84989e015",
+            "url": "https://lfortran.github.io/wasm_builds/release/84989e015",
+            "version": "0.58.0-63-g84989e015"
+        },
+        {
+            "created": "2025-11-18 16:58:32.058307",
+            "lfortran_commit_sha": "660d840d0",
+            "url": "https://lfortran.github.io/wasm_builds/release/660d840d0",
+            "version": "0.58.0-62-g660d840d0"
+        },
+        {
+            "created": "2025-11-18 16:09:52.232423",
+            "lfortran_commit_sha": "ecf38d321",
+            "url": "https://lfortran.github.io/wasm_builds/release/ecf38d321",
+            "version": "0.58.0-59-gecf38d321"
+        },
+        {
+            "created": "2025-11-18 15:10:46.429274",
+            "lfortran_commit_sha": "36df24d1f",
+            "url": "https://lfortran.github.io/wasm_builds/release/36df24d1f",
+            "version": "0.58.0-54-g36df24d1f"
+        },
+        {
+            "created": "2025-11-17 20:19:50.041400",
+            "lfortran_commit_sha": "6215e324b",
+            "url": "https://lfortran.github.io/wasm_builds/release/6215e324b",
+            "version": "0.58.0-49-g6215e324b"
+        },
+        {
+            "created": "2025-11-17 20:10:48.882885",
+            "lfortran_commit_sha": "0042f22bb",
+            "url": "https://lfortran.github.io/wasm_builds/release/0042f22bb",
+            "version": "0.58.0-47-g0042f22bb"
+        },
+        {
+            "created": "2025-11-17 06:57:26.831224",
+            "lfortran_commit_sha": "b14bdee77",
+            "url": "https://lfortran.github.io/wasm_builds/release/b14bdee77",
+            "version": "0.58.0-45-gb14bdee77"
+        },
+        {
+            "created": "2025-11-17 02:29:29.511406",
+            "lfortran_commit_sha": "560e53321",
+            "url": "https://lfortran.github.io/wasm_builds/release/560e53321",
+            "version": "0.58.0-43-g560e53321"
+        },
+        {
+            "created": "2025-05-05 23:17:29.546126",
+            "lfortran_commit_sha": "b5e05bd3a",
+            "url": "https://lfortran.github.io/wasm_builds/release/b5e05bd3a",
+            "version": "0.52.0"
+        }
+    ]
+}
